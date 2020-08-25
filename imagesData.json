@@ -1,0 +1,83 @@
+{
+    "dayForeground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "sunsetForeground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "nightForeground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "landForeground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "abstractForeground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "waterForeground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "dayBackground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ],
+    "sunsetBackground": [
+        {
+            "name": "sunset1.jpg"
+        },
+        {
+            "name": "sunset2.jpg"
+        },
+        {
+            "name": "sunset3.jpg"
+        }
+    ],
+    "nightBackground": [
+        {
+            "name": "string"
+        },
+        {
+            "name": "string"
+        }
+    ]
+}
