@@ -8,6 +8,12 @@
         },
         {
             "name": "SydneyTower1.png"
+        },
+        {
+            "name": "OperaHouse1.png"
+        },
+        {
+            "name": "CityStreet1.png"
         }
     ],
     "sunsetForeground": [
@@ -35,7 +41,7 @@
     ],
     "waterForeground": [
         {
-            "name": "sky.jpg"
+            "name": "OperaHouse1.png"
         }
     ],
     "dayBackground": [
