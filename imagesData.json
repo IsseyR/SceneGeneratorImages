@@ -5,19 +5,29 @@
         }
     ],
     "sunsetForeground": [
-    
+        {
+            "name": "sky.jpg"
+        }
     ],
     "nightForeground": [
-     
+        {
+            "name": "sky.jpg"
+        }
     ],
     "landForeground": [
-
+        {
+            "name": "sky.jpg"
+        }
     ],
     "abstractForeground": [
-
+        {
+            "name": "sky.jpg"
+        }
     ],
     "waterForeground": [
-
+        {
+            "name": "sky.jpg"
+        }
     ],
     "dayBackground": [
         {
@@ -25,9 +35,13 @@
         }
     ],
     "sunsetBackground": [
-
+        {
+            "name": "sky.jpg"
+        }
     ],
     "nightBackground": [
- 
+        {
+            "name": "sky.jpg"
+        }
     ]
 }
