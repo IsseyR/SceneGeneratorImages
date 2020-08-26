@@ -2,6 +2,9 @@
     "dayForeground": [
         {
             "name": "building1.png"
+        },
+        {
+            "name": "CQBuilding1.png"
         }
     ],
     "sunsetForeground": [
