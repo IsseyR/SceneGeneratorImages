@@ -5,16 +5,22 @@
         },
         {
             "name": "CQBuilding1.png"
+        },
+        {
+            "name": "SydneyTower1.png"
         }
     ],
     "sunsetForeground": [
         {
             "name": "building2.png"
+        },
+        {
+            "name": "OperaHouse1.png"
         }
     ],
     "nightForeground": [
         {
-            "name": "sky.jpg"
+            "name": "StMarysCath1.jpg"
         }
     ],
     "landForeground": [
