@@ -1,83 +1,33 @@
 {
     "dayForeground": [
         {
-            "name": "string1"
-        },
-        {
-            "name": "string2"
-        },
-        {
-            "name": "string3"
-        },
-        {
-            "name": "string4"
+            "name": "building1.png"
         }
     ],
     "sunsetForeground": [
-        {
-            "name": "string5"
-        },
-        {
-            "name": "string6"
-        }
+    
     ],
     "nightForeground": [
-        {
-            "name": "string7"
-        },
-        {
-            "name": "string8"
-        }
+     
     ],
     "landForeground": [
-        {
-            "name": "string9"
-        },
-        {
-            "name": "string10"
-        }
+
     ],
     "abstractForeground": [
-        {
-            "name": "string11"
-        },
-        {
-            "name": "string12"
-        }
+
     ],
     "waterForeground": [
-        {
-            "name": "string13"
-        },
-        {
-            "name": "string14"
-        }
+
     ],
     "dayBackground": [
         {
-            "name": "string15"
-        },
-        {
-            "name": "string16"
+            "name": "sky.jpg"
         }
     ],
     "sunsetBackground": [
-        {
-            "name": "sunset1.jpg17"
-        },
-        {
-            "name": "sunset2.jpg18"
-        },
-        {
-            "name": "sunset3.jpg19"
-        }
+
     ],
     "nightBackground": [
-        {
-            "name": "string20"
-        },
-        {
-            "name": "string21"
-        }
+ 
     ]
 }
