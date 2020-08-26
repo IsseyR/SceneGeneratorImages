@@ -1,83 +1,83 @@
 {
     "dayForeground": [
         {
-            "name": "string"
+            "name": "string1"
         },
         {
-            "name": "string"
+            "name": "string2"
         },
         {
-            "name": "string"
+            "name": "string3"
         },
         {
-            "name": "string"
+            "name": "string4"
         }
     ],
     "sunsetForeground": [
         {
-            "name": "string"
+            "name": "string5"
         },
         {
-            "name": "string"
+            "name": "string6"
         }
     ],
     "nightForeground": [
         {
-            "name": "string"
+            "name": "string7"
         },
         {
-            "name": "string"
+            "name": "string8"
         }
     ],
     "landForeground": [
         {
-            "name": "string"
+            "name": "string9"
         },
         {
-            "name": "string"
+            "name": "string10"
         }
     ],
     "abstractForeground": [
         {
-            "name": "string"
+            "name": "string11"
         },
         {
-            "name": "string"
+            "name": "string12"
         }
     ],
     "waterForeground": [
         {
-            "name": "string"
+            "name": "string13"
         },
         {
-            "name": "string"
+            "name": "string14"
         }
     ],
     "dayBackground": [
         {
-            "name": "string"
+            "name": "string15"
         },
         {
-            "name": "string"
+            "name": "string16"
         }
     ],
     "sunsetBackground": [
         {
-            "name": "sunset1.jpg"
+            "name": "sunset1.jpg17"
         },
         {
-            "name": "sunset2.jpg"
+            "name": "sunset2.jpg18"
         },
         {
-            "name": "sunset3.jpg"
+            "name": "sunset3.jpg19"
         }
     ],
     "nightBackground": [
         {
-            "name": "string"
+            "name": "string20"
         },
         {
-            "name": "string"
+            "name": "string21"
         }
     ]
 }
