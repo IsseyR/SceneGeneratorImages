@@ -14,6 +14,30 @@
         },
         {
             "name": "CityStreet1.png"
+        },
+        {
+            "name": "CapeBanks1.png"
+        },
+        {
+            "name": "CapeBanks2.png"
+        },
+        {
+            "name": "CapeBanks3.png"
+        },
+        {
+            "name": "CapeBanks4.png"
+        },
+        {
+            "name": "CapeBanks5.png"
+        },
+        {
+            "name": "SnowyMountains1.png"
+        },
+        {
+            "name": "SnowyMountains2.png"
+        },
+        {
+            "name": "SnowyMountains3.png"
         }
     ],
     "sunsetForeground": [
@@ -26,10 +50,10 @@
     ],
     "nightForeground": [
         {
-            "name": "StMarysCath1.jpg"
+            "name": "StMarysCath1.png"
         }
     ],
-    "landForeground": [
+    "landScapeForeground": [
         {
             "name": "sky.jpg"
         }
@@ -42,11 +66,17 @@
     "waterForeground": [
         {
             "name": "OperaHouse1.png"
+        },
+        {
+            "name": "CapeBanks1.png"
         }
     ],
     "dayBackground": [
         {
             "name": "sky.jpg"
+        },
+        {
+            "name": "sky2.jpg"
         }
     ],
     "sunsetBackground": [
