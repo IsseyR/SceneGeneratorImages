@@ -4,7 +4,7 @@
             "name": "building1.png"
         },
         {
-            "name": "building2.png"
+            "name": "Building2.png"
         },
         {
             "name": "CQBuilding1.png"
@@ -47,6 +47,9 @@
         },
         {
             "name": "SnowyMountains3.png"
+        },
+        {
+            "name": "SnowyMountains4.png"
         }
     ],
     "sunsetForeground": [
@@ -55,21 +58,36 @@
         },
         {
             "name": "OperaHouse1.png"
+        },
+        {
+            "name": "LaPerouse1.png"
+        },
+        {
+            "name": "OperaHouse2.png"
         }
     ],
     "nightForeground": [
         {
             "name": "StMarysCath1.png"
+        },
+        {
+            "name": "ANZACMemorial1.png"
+        },
+        {
+            "name": "LaPerouse2.png"
+        },
+        {
+            "name": "SydneyTower2.png"
         }
     ],
     "landScapeForeground": [
         {
-            "name": "sky.jpg"
+            "name": "Sky.jpg"
         }
     ],
     "abstractForeground": [
         {
-            "name": "sky.jpg"
+            "name": "Sky.jpg"
         }
     ],
     "waterForeground": [
@@ -95,7 +113,7 @@
     ],
     "nightBackground": [
         {
-            "name": "sky.jpg"
+            "name": "Sky.jpg"
         }
     ]
 }
