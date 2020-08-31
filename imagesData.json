@@ -85,12 +85,19 @@
     ],
     "landScapeForeground": [
         {
-            "name": "Sky1.jpg"
-        }
-    ],
-    "abstractForeground": [
+            "name": "CapeBanks6.png"
+        },
         {
-            "name": "Sky.jpg"
+            "name": "SnowyMountains1.png"
+        },
+        {
+            "name": "SnowyMountains2.png"
+        },
+        {
+            "name": "SnowyMountains3.png"
+        },
+        {
+            "name": "SnowyMountains4.png"
         }
     ],
     "waterForeground": [
@@ -99,6 +106,15 @@
         },
         {
             "name": "CapeBanks1.png"
+        },
+        {
+            "name": "CapeBanks2.png"
+        },
+        {
+            "name": "CapeBanks4.png"
+        },
+        {
+            "name": "CapeBanks5.png"
         }
     ],
     "dayBackground": [
@@ -121,11 +137,26 @@
         },
         {
             "name": "SunsetSky1.jpg"
+        },
+        {
+            "name": "SunsetSky2.jpg"
+        },
+        {
+            "name": "SunsetSky3.jpg"
+        },
+        {
+            "name": "SunsetSky4.jpg"
         }
     ],
     "nightBackground": [
         {
-            "name": "Night1.jpg"
+            "name": "NightSky1.jpg"
+        },
+        {
+            "name": "NightSky2.jpg"
+        },
+        {
+            "name": "NightSky3.jpg"
         }
     ]
 }
