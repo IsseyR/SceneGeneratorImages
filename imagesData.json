@@ -1,9 +1,6 @@
 {
     "dayForeground": [
         {
-            "name": "building1.png"
-        },
-        {
             "name": "Building2.png"
         },
         {
@@ -53,9 +50,6 @@
         }
     ],
     "sunsetForeground": [
-        {
-            "name": "building2.png"
-        },
         {
             "name": "CapeBqanks1.png"
         },
@@ -133,7 +127,7 @@
     ],
     "sunsetBackground": [
         {
-            "name": "sunsetSky.jpg"
+            "name": "SunsetSky.jpg"
         },
         {
             "name": "SunsetSky1.jpg"
