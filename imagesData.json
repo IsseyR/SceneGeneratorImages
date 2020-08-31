@@ -57,6 +57,9 @@
             "name": "building2.png"
         },
         {
+            "name": "CapeBqanks1.png"
+        },
+        {
             "name": "OperaHouse1.png"
         },
         {
@@ -82,7 +85,7 @@
     ],
     "landScapeForeground": [
         {
-            "name": "Sky.jpg"
+            "name": "Sky1.jpg"
         }
     ],
     "abstractForeground": [
@@ -100,20 +103,29 @@
     ],
     "dayBackground": [
         {
-            "name": "Sky.jpg"
+            "name": "Sky1.jpg"
         },
         {
             "name": "Sky2.jpg"
+        },
+        {
+            "name": "Sky3.jpg"
+        },
+        {
+            "name": "Sky4.jpg"
         }
     ],
     "sunsetBackground": [
         {
             "name": "sunsetSky.jpg"
+        },
+        {
+            "name": "SunsetSky1.jpg"
         }
     ],
     "nightBackground": [
         {
-            "name": "Sky.jpg"
+            "name": "Night1.jpg"
         }
     ]
 }
